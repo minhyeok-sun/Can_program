@@ -1,0 +1,14 @@
+uint32 mobileye_can_message_test_number
+uint32 msg_count
+uint32 msg_status
+float32 tosec
+float32 distance_left_lane
+float32 distance_right_lane
+uint32[5] o_id
+float32[5] o_position_x
+float32[5] o_position_y
+float32[5] o_relative_velocity_x
+uint32[5] o_brake_light
+uint32[5] o_type
+uint32[5] o_status
+uint32[5] o_change

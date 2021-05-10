@@ -1,0 +1,14 @@
+uint32 UDS_count
+uint32 gap
+uint32 OBD_RPM
+uint32 OBD_speed
+uint32 Vehicle_speed_1
+uint32 Vehicle_speed_2
+uint32 Accleartor_position
+uint32 Driver_setting_target_speed
+uint32 Distance_to_target
+uint32 Relative_speed_to_target
+uint32 Absolute_steering_angle
+uint32 Steering_wheel_angle_sensor
+
+

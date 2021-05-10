@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="niro_listner" pkg="kaai_can" type="niro_listner.py" />
+  <node name="mobileye_listner" pkg="kaai_can" type="mobileye_listner.py" />
+  <node name="niro_converter" pkg="kaai_can" type="niro_converter.py"/>
+  <node name="mobileye_converter" pkg="kaai_can" type="mobileye_converter.py"/>
+  <node name="mobileye_detection" pkg="kaai_can" type="mobileye_detection.py"/>
+</launch>
