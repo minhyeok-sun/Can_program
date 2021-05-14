@@ -9,3 +9,5 @@
 4) mobileye_detection.py : mobileye에서 감지한 주변 차량에 대한 data 수집 코드
 5) mobileye_detection_visual.py : 4)코드에서 opencv를 통해 시각화한 image 출력 코드
 6) steering_niro2k7.py : 실차량 niro에서 logging한 steering-angle 정보를 연구실 내 K7 simulator handle 에 출력하는 코드
+
+연구노트 : https://www.notion.so/CAN-4b8fa4c6c8b94fa7a84bde32c9305b9d
